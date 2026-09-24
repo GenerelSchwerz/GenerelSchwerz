@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hello.svg" alt="Hi, I'm Rocco. I write fast things fast." width="880" />
+  <img src="./assets/intro.svg" alt="Hi, I'm Rocco. I write fast things, fast." width="880" />
 </div>
 
 <p align="center">

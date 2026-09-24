@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="260" viewBox="0 0 880 260" role="img" aria-labelledby="title description">
   <title id="title">Hi, I'm Rocco.</title>
-  <desc id="description">I write fast things fast. A small orbit and accent line animate gently.</desc>
+  <desc id="description">I write fast things, fast. A small orbit and accent line animate gently.</desc>
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#6e89ff"/>
@@ -31,7 +31,7 @@
     <text class="title" x="48" y="125" font-size="61" font-weight="750" letter-spacing="-2.5">Hi, I'm Rocco.</text>
   </g>
   <g class="copy">
-    <text class="subtitle" x="52" y="172" font-size="23" letter-spacing="-.4">I write fast things fast.</text>
+    <text class="subtitle" x="52" y="172" font-size="23" letter-spacing="-.4">I write fast things, fast.</text>
   </g>
   <path d="M52 198 H532" fill="none" stroke="#65d6cb" stroke-width="3" stroke-linecap="round" opacity=".8"/>
 
