@@ -12,7 +12,7 @@
 
 ## Current projects
 
-- [llama.cpp fork](https://github.com/GenerelSchwerz/llama.cpp) — I work on inference performance and memory efficiency.
+- [llama.cpp fork](https://github.com/GenerelSchwerz/llama.cpp) — A hyper-optimized fork of llama.cpp for MoE models, with custom CPU-KV implementations and decreased VRAM usage for both MoE and dense models.
 
 ## Research papers
 
@@ -20,8 +20,8 @@
 
 ## College research
 
-- **Robotics · [HeRo Lab](https://herolab.org/):** I researched swarm communication and exploration planning.
-- **Space systems · [Small Satellite Research Laboratory](https://smallsat.uga.edu/):** I designed a radio packet protocol and built ESP32 tools for remote file collection and cleanup.
+- **Robotics · [HeRo Lab](https://herolab.org/):** I researched multi-agent swarm communication and exploration planning of 3D environments under Dr.Parasuraman.
+- **Space systems · [Small Satellite Research Laboratory](https://smallsat.uga.edu/):** For MEMESat, I implemented our radio's packet protocol and built ESP32 tools for remote file collection and cleanup.
 
 ## Minecraft
 
