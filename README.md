@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  I’m a computer science graduate. I build useful tools and explore how systems fit together.
+  2026 CS Graduate | I enjoy writing extremely optimized code to the point of obsession. Embedded programming, applied robotics, agentic simulations; I hope to work in the space industry one day.
 </p>
 
 <p align="center">
