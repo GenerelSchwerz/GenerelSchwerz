@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hello.svg" alt="Hi, I'm Rocco. I build things that work." width="880" />
+  <img src="./assets/hello.svg" alt="Hi, I'm Rocco. I write fast things fast." width="880" />
 </div>
 
 <p align="center">
@@ -11,7 +11,17 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/GenerelSchwerz/llama.cpp">llama.cpp fork</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/GenerelSchwerz/rust-minecraft-physics">Rust Minecraft physics</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/GenerelSchwerz/trajectory-solver">Trajectory solver</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/nxg-org/mineflayer-physics-utils">Mineflayer physics utils</a>
+  <br />
+  <a href="https://github.com/nxg-org">nxg-org</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Minecraft-Pathfinding">Minecraft Pathfinding</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/deepslate-bedrock/prismarine-bedrock">Prismarine Bedrock</a>
 </p>
