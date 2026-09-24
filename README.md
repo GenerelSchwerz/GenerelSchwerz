@@ -27,12 +27,8 @@
 ## Minecraft
 
 - **Physics & navigation:** [Rust Minecraft physics](https://github.com/GenerelSchwerz/rust-minecraft-physics) · [Mineflayer physics utilities](https://github.com/nxg-org/mineflayer-physics-utils) · [Minecraft Pathfinding](https://github.com/Minecraft-Pathfinding)
-- **Bedrock:** [Prismarine Bedrock](https://github.com/deepslate-bedrock/prismarine-bedrock) · [Mineflayer Bedrock](https://github.com/GenerelSchwerz/mineflayer-bedrock)
+- **Bedrock:** [Prismarine Bedrock](https://github.com/deepslate-bedrock/prismarine-bedrock)
 - **Bot tooling:** [nxg-org](https://github.com/nxg-org) · [Static state machine](https://github.com/GenerelSchwerz/mineflayer-static-statemachine)
-
-## Misc
-
-- [Trajectory solver](https://github.com/GenerelSchwerz/trajectory-solver)
 
 ## Contact
 
