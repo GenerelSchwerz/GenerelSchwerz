@@ -32,3 +32,7 @@
 ## Misc
 
 - [Trajectory solver](https://github.com/GenerelSchwerz/trajectory-solver)
+
+## Contact
+
+Email me at [rocco.generel@gmail.com](mailto:rocco.generel@gmail.com).
