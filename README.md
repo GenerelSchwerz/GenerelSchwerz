@@ -10,14 +10,18 @@
   I work with <strong>C++ · Rust · Python · TypeScript · Java</strong>.
 </p>
 
+## Current projects
+
+- [llama.cpp fork](https://github.com/GenerelSchwerz/llama.cpp) — I work on inference performance and memory efficiency.
+
 ## Research papers
 
 - I coauthored [Benchmarking Arbitrary Natural Language Tasks in 3D Open Worlds](https://embodied-ai.org/papers/2025/15_Benchmarking_Arbitrary_Natu.pdf) (CVPR 2025 Embodied AI Workshop) and contributed to [SemanticSteve](https://github.com/sonnygeorge/semantic-steve), the Minecraft agent library used in the paper.
 
 ## College research
 
-- **Robotics · [HeRo Lab](https://herolab.org/):** I researched heterogeneous robot systems at UGA.
-- **Space systems · [Small Satellite Research Laboratory](https://smallsat.uga.edu/):** I worked on small-satellite research at UGA.
+- **Robotics · [HeRo Lab](https://herolab.org/):** I researched swarm communication and exploration planning.
+- **Space systems · [Small Satellite Research Laboratory](https://smallsat.uga.edu/):** I designed a radio packet protocol and built ESP32 tools for remote file collection and cleanup.
 
 ## Minecraft
 
@@ -27,4 +31,4 @@
 
 ## Misc
 
-- [llama.cpp fork](https://github.com/GenerelSchwerz/llama.cpp) · [Trajectory solver](https://github.com/GenerelSchwerz/trajectory-solver)
+- [Trajectory solver](https://github.com/GenerelSchwerz/trajectory-solver)
