@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./assets/orbit-3d.svg" alt="Hi, I'm Rocco. I write fast things, fast." width="880" />
+  <img src="./assets/earth-rotation.gif" alt="Earth rotating" width="120" height="120" />
+  <h1>Hi, I'm Rocco.</h1>
+  <p><strong>I write fast things, fast.</strong></p>
 </div>
 
 <p align="center">
@@ -36,3 +38,5 @@
 ## Contact
 
 Email me at [rocco.generel@gmail.com](mailto:rocco.generel@gmail.com).
+
+<p align="center"><sub>Earth animation: <a href="https://commons.wikimedia.org/wiki/File:Rotating_earth_animated_transparent.gif">NASA Goddard Space Flight Center</a> (public domain).</sub></p>
