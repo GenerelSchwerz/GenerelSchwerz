@@ -13,7 +13,7 @@
 
 ## Current projects
 
-- [llama.cpp fork](https://github.com/GenerelSchwerz/llama.cpp) — A hyper-optimized fork of llama.cpp for MoE models, with custom CPU-KV implementations and decreased VRAM usage for both MoE and dense models.
+- [llama.cpp fork](https://github.com/GenerelSchwerz/llama.cpp/wiki) — A hyper-optimized fork of llama.cpp for MoE models, with custom CPU-KV implementations and decreased VRAM usage for both MoE and dense models.
 
 ## Research papers
 
